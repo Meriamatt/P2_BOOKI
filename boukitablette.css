@@ -1,0 +1,7 @@
+.container {
+	flex-direction: column-reverse;
+}
+#populaires {
+	width: 100%;
+	border-radius: 0;
+}
