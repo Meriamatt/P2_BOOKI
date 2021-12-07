@@ -94,6 +94,7 @@ form a span {
 #search i {
 	display: unset;
 }
+
 .filter {
 	font-size: 4vw;
 	display: flex;
@@ -124,6 +125,9 @@ form a span {
 }
 #flex_mobile a:nth-child(4n) {
 	width: 54%;
+}
+#logo_info {
+	padding: 0.5vw 2vw;
 }
 .container {
 	flex-direction: column-reverse;
