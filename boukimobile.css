@@ -129,7 +129,7 @@ form a span {
 	flex-direction: column-reverse;
 }
 #populaires {
-	width: 95%;
+	width: 97%;
 	border-radius: 0;
 	margin:0;
 }
@@ -138,9 +138,10 @@ form a span {
 }
 .mt-0 {
 	font-size: 4vw;
+	margin-bottom: 0;
 }
 .mt-20 {
-	font-size: 3vw;
+	font-size: 2vw;
 }
 #hebergements {
 	width: 90%;
