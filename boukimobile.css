@@ -65,8 +65,8 @@ margin-top: 0.5vw;
     padding: 0;
 }
 #barre_de_recherche p:first-child {
-    height: 4.5vw;
-    width: 4.5vw;
+    height: 5vw;
+    width: 5vw;
 	padding: 1.5vw;
     background: #F2F2F2;
     border-radius: 15px 0 0 15px;
